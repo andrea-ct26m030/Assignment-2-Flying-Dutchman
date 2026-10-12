@@ -34,6 +34,13 @@ public class SpaceshipController : MonoBehaviour
     private void Awake()
     {
         rb = GetComponent<Rigidbody>();
+        Physics.invokeCollisionCallbacks = true;
+
+        Collider[] playerColliders = GetComponentsInChildren<Collider>();
+        foreach (Collider playerCollider in playerColliders)
+        {
+            playerCollider.providesContacts = true;
+        }
     }
 
     private void OnEnable()
@@ -92,5 +99,15 @@ public class SpaceshipController : MonoBehaviour
         );
 
         pendingLook = Vector2.zero;
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        Debug.Log($"Player collided with {collision.gameObject.name}.", collision.gameObject);
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        Debug.Log($"Player entered trigger {other.gameObject.name}.", other.gameObject);
     }
 }
