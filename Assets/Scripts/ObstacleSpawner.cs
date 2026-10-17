@@ -10,10 +10,16 @@ public class ObstacleSpawner : MonoBehaviour
     [Header("Spawn Area")]
     [SerializeField, Min(0f)] private float spawnRadius = 50f;
     [SerializeField, Min(0f)] private float despawnRadius = 75f;
+    [Tooltip("How many random positions are tried per spawn to find a spot free of other colliders.")]
+    [SerializeField, Range(1, 32)] private int spawnAttempts = 10;
 
     [Header("Random Scale")]
     [SerializeField, Min(0f)] private float minScale = 0.5f;
     [SerializeField, Min(0f)] private float maxScale = 2f;
+
+    [Header("Mass")]
+    [Tooltip("Mass of an obstacle at scale 1. Mass grows with the cube of the scale multiplier.")]
+    [SerializeField, Min(0.01f)] private float baseMass = 50f;
 
     [Header("Movement")]
     [SerializeField, Min(0f)] private float minSpeed = 1f;
@@ -67,8 +73,11 @@ public class ObstacleSpawner : MonoBehaviour
             {
                 Destroy(obstacle);
             }
+        }
 
-            SpawnObstacle();
+        // Top up to the target amount. Spawns that found no free spot are retried here.
+        while (spawnedObstacles.Count < amount && SpawnObstacle())
+        {
         }
     }
 
@@ -80,16 +89,29 @@ public class ObstacleSpawner : MonoBehaviour
             return false;
         }
 
-        Vector3 spawnPosition = transform.position + Random.insideUnitSphere * spawnRadius;
+        float scaleMultiplier = Random.Range(minScale, maxScale);
+
+        if (!TryFindFreeSpawnPosition(prefab, scaleMultiplier, out Vector3 spawnPosition))
+        {
+            // No free spot found this frame; the next Update tries again.
+            return false;
+        }
+
         Vector3 movementDirection = Random.onUnitSphere;
         Quaternion spawnRotation = faceMovementDirection
             ? Quaternion.LookRotation(movementDirection)
             : Random.rotationUniform;
 
         GameObject obstacle = Instantiate(prefab, spawnPosition, spawnRotation, transform);
-
-        float scaleMultiplier = Random.Range(minScale, maxScale);
         obstacle.transform.localScale *= scaleMultiplier;
+
+        // Larger obstacles get a higher mass so collisions react realistically.
+        Rigidbody rb = obstacle.GetComponent<Rigidbody>();
+        if (rb == null)
+        {
+            rb = obstacle.AddComponent<Rigidbody>();
+        }
+        rb.mass = baseMass * scaleMultiplier * scaleMultiplier * scaleMultiplier;
 
         FloatingSpaceship floatingSpaceship = obstacle.GetComponent<FloatingSpaceship>();
         if (floatingSpaceship == null)
@@ -100,6 +122,45 @@ public class ObstacleSpawner : MonoBehaviour
         floatingSpaceship.Initialize(movementDirection, Random.Range(minSpeed, maxSpeed));
         spawnedObstacles.Add(obstacle);
         return true;
+    }
+
+    /// <summary>
+    /// Picks a random position inside the spawn radius that does not overlap
+    /// existing colliders, so obstacles never spawn inside the map or each other.
+    /// </summary>
+    private bool TryFindFreeSpawnPosition(GameObject prefab, float scaleMultiplier, out Vector3 position)
+    {
+        float clearance = EstimateRadius(prefab) * scaleMultiplier;
+
+        for (int attempt = 0; attempt < spawnAttempts; attempt++)
+        {
+            position = transform.position + Random.insideUnitSphere * spawnRadius;
+
+            if (!Physics.CheckSphere(position, clearance, ~0, QueryTriggerInteraction.Ignore))
+            {
+                return true;
+            }
+        }
+
+        position = default;
+        return false;
+    }
+
+    private static float EstimateRadius(GameObject prefab)
+    {
+        Collider prefabCollider = prefab.GetComponentInChildren<Collider>();
+
+        switch (prefabCollider)
+        {
+            case BoxCollider box:
+                return box.size.magnitude * 0.5f;
+            case SphereCollider sphere:
+                return sphere.radius;
+            case CapsuleCollider capsule:
+                return Mathf.Max(capsule.radius, capsule.height * 0.5f);
+            default:
+                return 5f;
+        }
     }
 
     private GameObject GetRandomPrefab()
