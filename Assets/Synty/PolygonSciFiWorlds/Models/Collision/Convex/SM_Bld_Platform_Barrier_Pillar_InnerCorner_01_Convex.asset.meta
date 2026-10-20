@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9838c499c9c16e0488516331a1db3eed
+timeCreated: 1635477226
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43810596637989448
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Bld_Platform_Barrier_Pillar_InnerCorner_01_Convex.asset
+  uploadId: 926022

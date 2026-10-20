@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d28ce46f7c4f9b149904818dc3f04a73
+timeCreated: 1635476256
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43701203513646046
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Prop_Drill_01_Convex
+    3.asset
+  uploadId: 926022

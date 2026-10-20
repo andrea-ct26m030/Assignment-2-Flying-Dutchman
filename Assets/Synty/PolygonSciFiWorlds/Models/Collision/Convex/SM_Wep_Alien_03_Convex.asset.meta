@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0b0065109a037c34199a2c9b3ff2e8a6
+timeCreated: 1635473369
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43471016017142604
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Wep_Alien_03_Convex.asset
+  uploadId: 926022

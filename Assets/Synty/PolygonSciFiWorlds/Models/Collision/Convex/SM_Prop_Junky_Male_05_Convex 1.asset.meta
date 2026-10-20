@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1cbe212163162c04da19ceb2c6719e0e
+timeCreated: 1635473740
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43559533817582138
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Prop_Junky_Male_05_Convex
+    1.asset
+  uploadId: 926022

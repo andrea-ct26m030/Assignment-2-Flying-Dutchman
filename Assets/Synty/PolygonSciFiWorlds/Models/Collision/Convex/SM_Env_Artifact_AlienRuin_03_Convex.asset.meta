@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 484c6e37187cd0942a8ec23d55a5ee23
+timeCreated: 1635474426
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43470739065649550
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Env_Artifact_AlienRuin_03_Convex.asset
+  uploadId: 926022

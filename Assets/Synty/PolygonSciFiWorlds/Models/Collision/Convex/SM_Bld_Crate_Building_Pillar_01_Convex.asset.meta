@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cc5bf5db8493cc9459472a5dbd64d121
+timeCreated: 1635477205
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43671624672897656
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Bld_Crate_Building_Pillar_01_Convex.asset
+  uploadId: 926022

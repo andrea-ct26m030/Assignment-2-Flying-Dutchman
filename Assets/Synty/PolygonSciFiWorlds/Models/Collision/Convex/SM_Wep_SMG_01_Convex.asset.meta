@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a69bff23104bd9f4b8b766835064a1c9
+timeCreated: 1635473403
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43114179149684232
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Wep_SMG_01_Convex.asset
+  uploadId: 926022

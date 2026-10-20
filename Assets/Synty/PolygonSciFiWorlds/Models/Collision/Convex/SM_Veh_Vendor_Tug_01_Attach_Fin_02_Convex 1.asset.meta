@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 069cde702d8b5ba448c88a616f6d8e8e
+timeCreated: 1635718867
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43506381452782210
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Veh_Vendor_Tug_01_Attach_Fin_02_Convex
+    1.asset
+  uploadId: 926022

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0ed1790b3fede5a4197143dba888f7b7
+timeCreated: 1635477595
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43760257986762340
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Bld_Core_Observation_Greeble_Pipe_Base_01_Convex.asset
+  uploadId: 926022

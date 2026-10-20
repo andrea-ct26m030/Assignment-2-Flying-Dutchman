@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 20b499c091f3b9245bca2c6f9614f36b
+timeCreated: 1635475178
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43681992141981232
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Env_Plant_Palm_02_Convex.asset
+  uploadId: 926022

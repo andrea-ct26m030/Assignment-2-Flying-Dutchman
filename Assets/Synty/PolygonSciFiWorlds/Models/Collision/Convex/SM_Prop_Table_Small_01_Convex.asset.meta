@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 464f4d957a55c44449b0f4f310b745f1
+timeCreated: 1635475604
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43980066786866874
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Prop_Table_Small_01_Convex.asset
+  uploadId: 926022

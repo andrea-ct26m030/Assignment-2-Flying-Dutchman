@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a82a48677ddec6c4ebcde139eb78a848
+timeCreated: 1635475625
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43846137882034878
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Prop_Antenna_07_Convex.asset
+  uploadId: 926022

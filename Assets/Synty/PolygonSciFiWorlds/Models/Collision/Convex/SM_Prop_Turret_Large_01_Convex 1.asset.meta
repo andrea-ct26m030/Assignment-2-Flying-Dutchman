@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a288565dec235c84192f0469d7e7f76b
+timeCreated: 1635476477
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43365701054193766
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Prop_Turret_Large_01_Convex
+    1.asset
+  uploadId: 926022

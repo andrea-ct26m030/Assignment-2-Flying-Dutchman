@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6dfcb099357656540807340d2db4b676
+timeCreated: 1635475609
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43300925432402042
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Prop_Powerline_01_Convex.asset
+  uploadId: 926022

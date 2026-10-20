@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e4b67bc8a219d7b48bbb1b27aed920b8
+timeCreated: 1629844046
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Materials/Sky/Skybox_Base_01_UV.mat
+  uploadId: 926022

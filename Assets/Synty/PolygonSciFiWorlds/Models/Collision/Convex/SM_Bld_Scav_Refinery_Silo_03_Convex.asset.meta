@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 85b5250e53cca794d939dbc271afb00f
+timeCreated: 1635477446
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43351597690584272
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Bld_Scav_Refinery_Silo_03_Convex.asset
+  uploadId: 926022

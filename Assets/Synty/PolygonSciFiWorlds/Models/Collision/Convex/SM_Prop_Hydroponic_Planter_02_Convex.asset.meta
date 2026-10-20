@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 804a46e2cdbba364f9d01b3325e2ef4e
+timeCreated: 1635475614
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43424832800129622
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Prop_Hydroponic_Planter_02_Convex.asset
+  uploadId: 926022

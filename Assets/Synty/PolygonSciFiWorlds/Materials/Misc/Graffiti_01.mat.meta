@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8b7e4e697e3d62c449f391cc1917f9f4
+timeCreated: 1632869025
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Materials/Misc/Graffiti_01.mat
+  uploadId: 926022

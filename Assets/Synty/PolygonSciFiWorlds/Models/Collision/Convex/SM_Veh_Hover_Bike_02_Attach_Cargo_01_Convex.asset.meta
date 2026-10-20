@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bd4ba5cc279a8dd47a97cddc4e4ab765
+timeCreated: 1635710596
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43426042135659444
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Veh_Hover_Bike_02_Attach_Cargo_01_Convex.asset
+  uploadId: 926022

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1813bd564d9162c43a34b72ff4eaf752
+timeCreated: 1635473443
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43374193155794510
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Wep_Hammer_02_Convex.asset
+  uploadId: 926022

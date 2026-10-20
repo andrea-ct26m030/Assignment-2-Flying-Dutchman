@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b3e236464291e36449541aa84c5d941c
+timeCreated: 1635716092
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43845219373758378
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Bld_Corp_LandingPad_03_Convex
+    3.asset
+  uploadId: 926022

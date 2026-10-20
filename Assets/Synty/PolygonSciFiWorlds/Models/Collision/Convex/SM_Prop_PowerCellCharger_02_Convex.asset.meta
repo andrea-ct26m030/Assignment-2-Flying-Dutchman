@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a501a1742a0b4c641919a13419d4d444
+timeCreated: 1635475559
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43677212822187506
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Prop_PowerCellCharger_02_Convex.asset
+  uploadId: 926022

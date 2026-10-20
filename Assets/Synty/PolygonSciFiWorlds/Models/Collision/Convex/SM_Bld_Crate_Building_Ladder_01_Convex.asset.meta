@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 289dc426b1a73cf48a4e8262b336b0ef
+timeCreated: 1635477180
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43298001893924694
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Bld_Crate_Building_Ladder_01_Convex.asset
+  uploadId: 926022

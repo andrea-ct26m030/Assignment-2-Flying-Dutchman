@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2c972e71385c0864eb7949460cee3eaa
+timeCreated: 1634689967
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Prefabs/FX/FX_Smoke_Large_01.prefab
+  uploadId: 926022

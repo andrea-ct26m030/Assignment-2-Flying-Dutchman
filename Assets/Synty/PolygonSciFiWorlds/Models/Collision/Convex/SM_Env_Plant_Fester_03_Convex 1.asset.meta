@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5dc011e70eeadd3408a301935b8cc16c
+timeCreated: 1635721797
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43017154944607724
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Env_Plant_Fester_03_Convex
+    1.asset
+  uploadId: 926022

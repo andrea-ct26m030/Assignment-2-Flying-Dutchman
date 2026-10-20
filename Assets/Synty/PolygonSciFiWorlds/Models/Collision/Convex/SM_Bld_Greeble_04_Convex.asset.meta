@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d33a1e90f1a98654bbf60401dbd82371
+timeCreated: 1635477221
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43424325038762186
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Bld_Greeble_04_Convex.asset
+  uploadId: 926022

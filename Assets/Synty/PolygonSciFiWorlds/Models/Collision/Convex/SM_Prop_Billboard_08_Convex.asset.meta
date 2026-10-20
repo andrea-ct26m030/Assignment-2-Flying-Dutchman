@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e1be489b45c46e745a3b351929eaac97
+timeCreated: 1635473888
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43885947556256608
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Prop_Billboard_08_Convex.asset
+  uploadId: 926022

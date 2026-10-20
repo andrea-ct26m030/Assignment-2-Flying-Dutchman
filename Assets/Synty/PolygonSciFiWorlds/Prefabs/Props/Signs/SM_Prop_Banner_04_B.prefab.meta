@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 41ec58905c483944a943952135b9b015
+timeCreated: 1634077139
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Prefabs/Props/Signs/SM_Prop_Banner_04_B.prefab
+  uploadId: 926022

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1224e85a5029a0646b9394c6acb00ed7
+timeCreated: 1634075213
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Materials/Misc/Clouds_01.mat
+  uploadId: 926022

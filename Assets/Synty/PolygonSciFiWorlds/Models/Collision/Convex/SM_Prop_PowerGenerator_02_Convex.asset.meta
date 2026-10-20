@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b4fe51deed4388c4699ba05f53b514b7
+timeCreated: 1635475549
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43933502421362288
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Prop_PowerGenerator_02_Convex.asset
+  uploadId: 926022

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bf41e0571b30dba4c89f8d5c59b24117
+timeCreated: 1629844478
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Materials/Sky/Planet_01_Alt_02.mat
+  uploadId: 926022

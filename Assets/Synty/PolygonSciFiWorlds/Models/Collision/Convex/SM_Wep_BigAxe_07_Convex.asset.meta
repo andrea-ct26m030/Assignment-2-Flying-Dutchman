@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 32e8b3c277af4a5478345ffdf12f7f09
+timeCreated: 1635473425
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43083305404692684
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Wep_BigAxe_07_Convex.asset
+  uploadId: 926022

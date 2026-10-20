@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bec998273dd947f4eb1bb0aab531ea52
+timeCreated: 1635475460
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43156777817586030
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Prop_Vendor_Pan_Bowls_01_Convex.asset
+  uploadId: 926022

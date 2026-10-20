@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 44dc852c4a5011b4eb840f2b706c50ed
+timeCreated: 1635477703
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43092103408539054
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Bld_Planetary_Cannon_01_Convex
+    1.asset
+  uploadId: 926022

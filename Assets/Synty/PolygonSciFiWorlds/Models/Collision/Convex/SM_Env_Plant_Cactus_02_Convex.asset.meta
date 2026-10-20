@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7ea1b564eff4153458da741d95d898ee
+timeCreated: 1635475186
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43965029008823784
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Env_Plant_Cactus_02_Convex.asset
+  uploadId: 926022

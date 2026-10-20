@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7a090836559ee5149a57bcd098d02228
+timeCreated: 1635711684
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43422498097415702
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Veh_Buggy_01_Convex
+    3.asset
+  uploadId: 926022

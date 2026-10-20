@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ec25a6279c9aaae4a8da593673833cd7
+timeCreated: 1543525056
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Materials/Alts/Skin_Alts/PolygonScifiWorlds_01_A_Alt.mat
+  uploadId: 926022

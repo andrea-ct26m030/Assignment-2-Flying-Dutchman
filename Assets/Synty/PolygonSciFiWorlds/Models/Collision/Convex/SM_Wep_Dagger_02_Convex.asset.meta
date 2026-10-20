@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 59ed92fd8817bae448c18b97893baa89
+timeCreated: 1635473434
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43287379373580328
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Wep_Dagger_02_Convex.asset
+  uploadId: 926022

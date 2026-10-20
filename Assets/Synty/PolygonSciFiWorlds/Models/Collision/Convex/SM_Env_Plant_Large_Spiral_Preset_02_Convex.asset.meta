@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9156d9fc2f1e1884e9f5c3beec18ed82
+timeCreated: 1635475163
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43791259434643794
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Env_Plant_Large_Spiral_Preset_02_Convex.asset
+  uploadId: 926022

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: db69c25232ccd3448b8ee570f947f05e
+timeCreated: 1635712310
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43833230814220678
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Veh_Rocket_01_Convex.asset
+  uploadId: 926022

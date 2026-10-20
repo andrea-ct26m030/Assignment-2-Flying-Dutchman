@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ec7dc86bbebc6e9438412187ac20fead
+timeCreated: 1635473735
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43012070446201010
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Prop_Junky_Female_03_Convex
+    1.asset
+  uploadId: 926022

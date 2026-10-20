@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 20b74d3467c888a479f90432aa2f9591
+timeCreated: 1635475508
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43976023134650442
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Prop_Vendor_Bug_04_Convex.asset
+  uploadId: 926022

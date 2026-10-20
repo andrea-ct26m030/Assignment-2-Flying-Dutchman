@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4b4a3c8928b8a9445ab86ae32d5ac806
+timeCreated: 1635475189
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43185037548852442
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Env_Plant_Spikey_01_Convex.asset
+  uploadId: 926022

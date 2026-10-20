@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 81655096ee2bf18478930830cfaf6fd6
+timeCreated: 1635717293
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43429564803086160
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Bld_Door_Double_01_Convex
+    1.asset
+  uploadId: 926022

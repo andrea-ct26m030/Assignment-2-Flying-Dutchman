@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 92372061051fedb4b9757bd78e758914
+timeCreated: 1635721920
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43638068146877516
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Bld_Scav_Dish_Background_01_Convex
+    1.asset
+  uploadId: 926022

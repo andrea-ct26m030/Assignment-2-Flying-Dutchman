@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0b4c341495cfbc54792ac865fa89d3a9
+timeCreated: 1635711298
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43105167239779830
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Veh_HoverTank_03_Convex.asset
+  uploadId: 926022

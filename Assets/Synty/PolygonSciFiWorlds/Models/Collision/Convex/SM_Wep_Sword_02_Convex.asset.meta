@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 82c19f06fa1e510439f3531293ca3603
+timeCreated: 1635473432
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43624771234801350
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Wep_Sword_02_Convex.asset
+  uploadId: 926022

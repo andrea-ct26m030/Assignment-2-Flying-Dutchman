@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 866442934f68d8048978757741fcad95
+timeCreated: 1635475562
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43583125943612862
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Prop_Chair_01_Convex.asset
+  uploadId: 926022

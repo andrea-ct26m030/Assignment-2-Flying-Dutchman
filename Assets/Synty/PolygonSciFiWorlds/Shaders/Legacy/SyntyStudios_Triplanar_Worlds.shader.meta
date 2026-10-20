@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8eed85a5cc01a114b8f3274bdbb76013
+timeCreated: 1635385729
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _NormalMap: {fileID: 2800000, guid: 63d3b2d11a818734eb3a55461e2c2f61, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Shaders/Legacy/SyntyStudios_Triplanar_Worlds.shader
+  uploadId: 926022

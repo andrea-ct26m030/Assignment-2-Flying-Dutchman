@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d5ba34622b45b4d4cbf94752eac5b450
+timeCreated: 1635474010
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43502069596501476
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Prop_Scav_Scrap_37_Convex.asset
+  uploadId: 926022

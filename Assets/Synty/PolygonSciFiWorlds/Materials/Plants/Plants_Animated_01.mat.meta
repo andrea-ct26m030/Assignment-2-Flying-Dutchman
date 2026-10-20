@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 633e4b80dfb786e46aef3fd9942ed02f
+timeCreated: 1627343245
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Materials/Plants/Plants_Animated_01.mat
+  uploadId: 926022

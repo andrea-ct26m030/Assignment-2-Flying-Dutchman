@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4af2ea08b97fd874fa10b3c77b4af3bb
+timeCreated: 1635716627
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43676789635528430
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206299
+  packageName: POLYGON - Sci-Fi Worlds Pack - Art by Synty
+  packageVersion: 1.12.1
+  assetPath: Assets/Synty/PolygonSciFiWorlds/Models/Collision/Convex/SM_Veh_DropShip_01_Convex.asset
+  uploadId: 926022
