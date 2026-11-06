@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TwerkOverride
+  m_Controller: {fileID: 9100000, guid: 8e13fdd3a74784c9ab923ab21e8b184f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 324baf19fd3664809a110e726c79d9b7, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: e162d4a37720041feb6f966a64d5ad42, type: 3}
