@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlattformController : MonoBehaviour
+public class PlatformController : MonoBehaviour
 {
     [SerializeField] private Material alternativeMaterial;
     [SerializeField] private Material defaultMaterial;
