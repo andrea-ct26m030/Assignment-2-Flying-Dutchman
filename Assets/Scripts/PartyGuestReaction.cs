@@ -27,7 +27,7 @@ public class PartyGuestReaction : MonoBehaviour
     {
         if (spaceship == null)
         {
-            SpaceshipController player = FindFirstObjectByType<SpaceshipController>();
+            SpaceshipController player = FindAnyObjectByType<SpaceshipController>();
             if (player != null)
             {
                 spaceship = player.transform;
