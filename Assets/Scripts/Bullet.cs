@@ -11,6 +11,7 @@ public class Bullet : MonoBehaviour
 {
     /// <summary>Raised whenever any bullet collides with something.</summary>
     public static event Action<Bullet, Collision> Hit;
+    public event Action<Bullet> Destroyed;
 
     [Tooltip("Seconds until the projectile is destroyed if it hits nothing.")]
     [SerializeField, Min(0f)] private float lifetime = 3f;
@@ -55,5 +56,10 @@ public class Bullet : MonoBehaviour
     {
         Hit?.Invoke(this, collision);
         Destroy(gameObject);
+    }
+
+    private void OnDestroy()
+    {
+        Destroyed?.Invoke(this);
     }
 }
