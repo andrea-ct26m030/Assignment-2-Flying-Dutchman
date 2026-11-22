@@ -115,3 +115,6 @@ InitTestScene*.unity*
 
 # JetBrains Rider
 .idea/
+
+# Music track is shared outside of git (licensed song, see DOCUMENTATION_FUNKY_TOWN.md)
+/Assets/Audio/Glatteis_XetexEdit.wav

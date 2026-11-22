@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -17,14 +18,23 @@ public class Cannon : MonoBehaviour
     [SerializeField, Min(0f)] private float projectileSpeed = 60f;
     [SerializeField, Min(0f)] private float fireCooldown = 0.2f;
 
+    [Header("Magazine")]
+    [SerializeField, Min(1)] private int magazineSize = 10;
+
     private Rigidbody shipRigidbody;
     private Collider[] shipColliders;
     private float nextFireTime;
+    private int ammunition;
+
+    public int Ammunition => ammunition;
+    public int MagazineSize => magazineSize;
+    public event Action<int> AmmunitionChanged;
 
     private void Awake()
     {
         shipRigidbody = GetComponent<Rigidbody>();
         shipColliders = GetComponentsInChildren<Collider>();
+        ammunition = magazineSize;
     }
 
     private void OnEnable()
@@ -41,7 +51,7 @@ public class Cannon : MonoBehaviour
 
     private void OnAttack(InputAction.CallbackContext context)
     {
-        if (Time.time < nextFireTime)
+        if (Time.time < nextFireTime || ammunition == 0)
         {
             return;
         }
@@ -59,10 +69,21 @@ public class Cannon : MonoBehaviour
     private void Fire()
     {
         Bullet bullet = Instantiate(projectilePrefab, muzzle.position, muzzle.rotation);
+        bullet.Destroyed += OnBulletDestroyed;
+
+        ammunition = Mathf.Max(0, ammunition - 1);
+        AmmunitionChanged?.Invoke(ammunition);
 
         // Inherit the ship's velocity so the projectile never lags behind a fast ship.
         Vector3 velocity = shipRigidbody.linearVelocity + muzzle.forward * projectileSpeed;
 
         bullet.Launch(velocity, shipColliders);
+    }
+
+    private void OnBulletDestroyed(Bullet bullet)
+    {
+        bullet.Destroyed -= OnBulletDestroyed;
+        ammunition = Mathf.Min(ammunition + 1, magazineSize);
+        AmmunitionChanged?.Invoke(ammunition);
     }
 }
