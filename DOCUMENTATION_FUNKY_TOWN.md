@@ -123,6 +123,10 @@ Das Editor-Script `Assets/Editor/FunkyTownSetup.cs` stellt die Schritte im Menü
 - Magazin-UI: Overlay Canvas, Layout, Bullet-Icon, Script `MagazineUI`.
 - Munitionslogik in `Cannon` und `Bullet` (Events, Schusssperre bei leerem Magazin, Rückgabe bei Zerstörung).
 - Trail des Raumschiffs mit dem Visual Effect Graph.
+- Visual Effect Graph `Assets/Effects/Test.vfx` als weiterer Effekt-Prototyp.
+- Einbindung der Distanzanzeige, des Trails und der Magazin-Anzeige in `AssignmentScene`.
+
+Diese Teile sind in der Git-Historie in den Commits `0b3eb69` (Distanzanzeige, Trail und VFX) und `3e28eec` (Magazin-UI und Munitionslogik) nachvollziehbar. Die älteren Dirty-Dancing-Beiträge (Plattformbewegung, Materialwechsel und Tänzer mit zufälligem Animationsstart) sind in `DOCUMENTATION_DIRTY_DANCING.md` beschrieben und bilden die Basis der Funky-Town-Szene.
 
 ### Markus Vogl
 
@@ -144,3 +148,7 @@ Das Editor-Script `Assets/Editor/FunkyTownSetup.cs` stellt die Schritte im Menü
 7. Im Editor: Occlusion-Culling-Visualization und Statistics-Fenster zeigen.
 8. Den Build (`Funky Town.app`) starten: eigener Splash Screen, Name und Icon.
 9. Code und Inspector zeigen: `DistanceDisplay`, `Compass`, `MagazineUI`, `Cannon`, `PartyLight`, die AudioSource-Einstellungen und ein Particle System.
+
+## Code-Review und Video-Leitfaden
+
+Für die konkrete Reihenfolge, Fundstellen in Unity, Erklärung der wichtigsten Methoden, Git-Vergleich, Build-Prüfung und bekannte Einschränkungen siehe `REVIEW_VIDEO_GUIDE.md`.
